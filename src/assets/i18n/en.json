@@ -1,0 +1,42 @@
+{
+	"SERVICES": {
+		"PROJECTS": {
+			"PROJECT0": {
+				"TITLE": "Munin",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT1": {
+				"TITLE": "Signalling",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT2": {
+				"TITLE": "Unity VR 3d",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT3": {
+				"TITLE": "recipe app using Docker",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT4": {
+				"TITLE": "Crossfit app using Springboot",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT5": {
+				"TITLE": "Treasure hunt with UWB tags",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT6": {
+				"TITLE": "App control technique in Java",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT7": {
+				"TITLE": "Grade management in Java",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			},
+			"PROJECT8": {
+				"TITLE": "Unity Ar 3d",
+				"MODALBODY": "Lorem ipsum dolor sit amet, consectetur adipisicing elit...,Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+			}
+		}
+	}
+}

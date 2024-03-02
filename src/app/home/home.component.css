@@ -1,0 +1,31 @@
+:host {
+  display: block;
+}
+
+span img{
+  width: 3%;
+  margin-right: 1%;
+}
+span h1{
+  font-weight: bold;
+}
+.col-sm-4 img{
+  width: 30%;
+}
+.col-sm-4 span{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  text-align: justify;
+}
+.row{
+margin-top: 3%;
+}
+/*{
+    /*width: 100%;
+      background-color: rgb(6, 75, 41); 
+    height: 100%;  Ajustez la hauteur selon vos besoins 
+    background-image: url('../../assets/images/IT.jpg'); Remplacez le chemin par le chemin réel de votre image
+    background-size: cover; Ajuste la taille de l'image pour couvrir toute la div
+    background-position: center;Centre l'image dans la div}*/
+    
+

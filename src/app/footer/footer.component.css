@@ -1,0 +1,8 @@
+img{
+    width: 2%;
+    margin-left: 1%;
+  }
+.container-fluid{
+  position: absolute;
+  bottom: 0;
+}

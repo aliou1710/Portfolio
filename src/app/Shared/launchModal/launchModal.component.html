@@ -1,0 +1,9 @@
+<div class="card m-2 text-center" [ngClass]="getColorClass(itemLaunch.color)">
+	<div class="card-header">
+		<h2>{{ itemLaunch.title | translate }}</h2>
+	</div>
+	<div class="card-body">
+		<p>{{ itemLaunch.modalbody | translate }}</p>
+		<span class="m-2"><button mat-raised-button color="accent" (click)="ShowInfo()">Show more</button></span>
+	</div>
+</div>
